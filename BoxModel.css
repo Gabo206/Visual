@@ -1,0 +1,22 @@
+#Rojo{
+height: 300px;/*Alto*/
+width: 400px;/*Ancho*/
+background-color: red;
+font-size: 32px;
+border: 5px solid lightcoral ;
+padding: auto ;
+margin: auto ;
+color: rebeccapurple;
+text-align: center;
+}
+#Azul{
+    height: 300px;/*Alto*/
+    width: 400px;/*Ancho*/
+    background-color: blue;
+    font-size: 32px;
+    border: 5px dotted cyan ;
+    padding: auto ;
+    margin: auto ;
+    color: blueviolet;
+    text-align: center;
+}
